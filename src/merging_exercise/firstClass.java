@@ -7,6 +7,7 @@ public class firstClass {
 		System.out.println("Hello World");
 		System.out.println("Goodbye, cruel world.");
 		System.out.println("Hello again, cruel world. I'm back!");
+		System.out.println("Nope, I'm not!");
 	}
 
 }
